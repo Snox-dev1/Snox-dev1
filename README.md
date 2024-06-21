@@ -35,7 +35,8 @@
  
  <p>
    <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
-🔭  I'm currently working at **Galarne.fr**.
+
+🔭  I'm currently working at **Galarne**
 
 🌱  I’m currently learning the meaning of **42**.
 
