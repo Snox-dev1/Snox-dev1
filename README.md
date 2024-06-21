@@ -3,9 +3,6 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018af262-3291-49c2-9ac4-9bef1209258a.svg)](https://wakatime.com/@018af262-3291-49c2-9ac4-9bef1209258a)
-
-
 <h3 align="center">
         <samp>&gt; Hey There! 👋, I am
                 <b><a target="_blank" href="https://valorion.fr">Hubert Vangermee</a></b>
@@ -38,17 +35,15 @@
  
  <p>
    <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
-🔭  I’m currently working on **Estate CRM**
+🔭  I'm currently working at **Galarne.fr**.
 
-🌱  I’m currently learning **React Native**
+🌱  I’m currently learning the meaning of **42**.
 
 👯  I’m looking to collaborate on **mobile application**
 
-👨‍💻  All of my projects are available at [https://juke.beer](https://juke.beer)
+👨‍💻  All of my projects are available at [https://juke.beer](https://juke.beer) (not finished)
 
 💬  Ask me about **React, Nextjs, Nestjs, Adonisjs, Expressjs**
-
-📫  How to reach me **hvangermee@gmail.com**
 
 ⚡  Fun fact **I can breathe fire and i know how to make cocktails**
 <br/>
