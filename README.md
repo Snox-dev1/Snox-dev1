@@ -1,81 +1,66 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=snox-dev1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<div align="center">
+# 👋 Welcome to Hubert Vangermee's Tech Universe! 
 
-  <img align="right" src="https://komarev.com/ghpvc/?username=snox-dev1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-
-
-
-
-<h3 align="center">
-  <samp>&gt; Hey There! 👋, I am
-    <b><a target="_blank" href="https://valorion.fr">Hubert Vangermee</a></b>
-  </samp>
-</h3>
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a full stack web application developer from <b>France</b> 」
-    <br>
-    <br>
-  </samp>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </p>
 
 <p align="center">
- <a href="https://valorion.fr" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website" />
- </a>
- <a href="https://linkedin.com/in/hvangermee" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
- <a href="https://instagram.com/berto_bartender" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
- </a> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20mobile%20developer;Always%20learning%20and%20innovating&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
 </p>
-<br />
 
-# About Me
+<p align="center">
+  <a href="https://valorion.fr" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/hvangermee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/berto_bartender" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
+</p>
 
+## 🚀 Quick Facts
+
+
+- 👨‍💻 Senior Developer at **Galarne**
+- 🌟 Exploring the depths of **42** and unraveling its secrets
+- 🤝 Open for collaboration on **innovative mobile applications**
+- 🎨 Check out my latest project: [Juke.beer](https://juke.beer) (Coming soon!)
+- 💡 Expert in **React, React Native, Next.js, Nest.js, Adonis.js, Express.js**
+- 🍹 Fun fact: I can breathe fire 🔥 and mix mind-blowing cocktails! 🍸
+
+## 🛠️ Tech Arsenal
+
+### 💻 Programming Languages
 <p>
-  <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
-  
-🔭 I’m currently working at **Galarne**
-
-🌱 I’m currently learning the meaning of **42**
-
-👯 I’m looking to collaborate on **mobile applications**
-
-👨‍💻 All of my projects are available at [https://juke.beer](https://juke.beer) (not finished)
-
-💬 Ask me about **React, Next.js, Nest.js, Adonis.js, Express.js**
-
-⚡ Fun fact: **I can breathe fire and I know how to make cocktails**
-
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
 </p>
 
-<br/>
+### 🧰 Frameworks & Libraries
+<p>
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?logo=expo&logoColor=white">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white">
+    <img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E.svg?logo=nestjs&logoColor=white">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+    <img alt="Adonis.js" src="https://img.shields.io/badge/Adonis.js-5A45FF.svg?logo=adonisjs&logoColor=white">
+</p>
 
-## Technologies I Use
+## 🎵 Vibing to
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=11182381556)](https://open.spotify.com/user/11182381556)
 
-<br/>
+## 😂 Developer Humor
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snox-dev1&layout=compact&theme=radical)
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
 
-<br/>
+---
 
-<br/>
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
