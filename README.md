@@ -22,7 +22,7 @@
 ## 🚀 Quick Facts
 
 
-- 👨‍💻 Senior Developer at **Galarne**
+- 👨‍💻 Senior Developer at **Salesky**
 - 🌟 Exploring the depths of **42** and unraveling its secrets
 - 🤝 Open for collaboration on **innovative mobile applications**
 - 🎨 Check out my latest project: [Juke.beer](https://juke.beer) (Coming soon!)
